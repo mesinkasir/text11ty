@@ -1,6 +1,6 @@
 {
   "title": "Eleventy Website Cepat",
-  "url": "https://example.com/",
+  "url": "https://text11ty.pages.dev/",
   "googlesitevertification" : "fgCvUavHPC4PNIsCzIJ7u8odSISCCgop6YfhdfOGSX0",
   "language": "en",
   "robots": "index, follow",
@@ -9,11 +9,11 @@
     "subtitle": "Pembuatan website dengan eleventy static generator modern dengan SEO didalamnya",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://text11ty.pages.dev/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://text11ty.pages.dev/feed/feed.json"
   },
   "nav": {
     "logo": "/img/webcepat.png",
@@ -35,9 +35,9 @@
     "menu5": "Dan hubungi kami jika membutuhkan layanan pembuatan website menggunakan eleventy dengan modern desain yang akan disesuaikan dengan kebutuhan mu dalam mengembangkan website cepat menggunakan static site generator eleventy ini. termasuk installasi ke hosting agar website cepat modern kamu siap online !!"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "axcora",
+    "email": "axcora@gmail.com",
+    "url": "https://axcora.com/getaxcoracms/"
   },
   "contact": {
     "whatsapp": "6285646104747",
