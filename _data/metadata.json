@@ -1,0 +1,47 @@
+{
+  "title": "Eleventy Website Cepat",
+  "url": "https://example.com/",
+  "googlesitevertification" : "fgCvUavHPC4PNIsCzIJ7u8odSISCCgop6YfhdfOGSX0",
+  "language": "en",
+  "robots": "index, follow",
+  "description": "Pembuatan website dengan eleventy static generator modern dengan SEO didalamnya.",
+  "feed": {
+    "subtitle": "Pembuatan website dengan eleventy static generator modern dengan SEO didalamnya",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "nav": {
+    "logo": "/img/webcepat.png",
+    "menu1": "Home",
+    "icon1": "fa-solid fa-home",
+    "menu2": "About",
+    "icon2": "fa-solid fa-user-astronaut",
+    "menu3": "Fast Website",
+    "icon3": "fa-solid fa-rocket",
+    "menu4": "Blog",
+    "icon4": "fa-solid fa-satellite-dish",
+    "menu5": "Contact",
+    "icon5": "fa-solid fa-headset"
+  },
+  "content": {
+    "menu1": "Selamat datang di website cepat static site generator dengan eleventy, ini adalah source code dan tema template untuk special eleventy site persembahan dari axcora technology untuk dunia, dan dikembangkan oleh team axcora developer axcora.com , dan ini 100% gratis untuk kamu gunakan dalam kebutuhan mengembangkan dan membuat website dengan teknologi statis site generator terbaru berbasis eleventy. Dengan tema template ini maka kamu dapat membuat website mu secara gratis dan bisa kamu kembangkan lagi sesuaikan dengan kebutuhan mu, saatnya sekarang beralih ke website cepat dengan eleventy.",
+    "menu2": "Tujuan pembuatan web app ini adalah agar pengguna dapat memanfaatkan dengan baik teknologi terbaru modern menggunakan generator static site modern, selain itu by default sudah mendukung penuh SEO akan membantu mu untuk terus melaju bersama web dan blog mu ke mesin pencarian google. Selain itu penggunaan nya pun juga sangat mudah , untuk mengganti template tema halaman utama maka kamu bisa akses ke data folder dan edit metadata.json file , kemudia lakukan konfigurasi mulai dari SEO dan kebutuhan untuk mengganti tema disana. ganti title,description sesuaikan dengan kebutuhan SEO mu, selanjutnya ganti nav untuk menu navbar dan content menu untuk mengganti isi artikel ini, se simple itu saja. Untuk mengunduh klik icon githu dan download tema ini dan mulai menggunakan nya.",
+    "menu3": "Secara konsep dan skema by default menggunakan eleventy sudah cukup cepat untuk pembuatan situs mu, dan tentunya juga pada tema template themes ini kami pun melakukan optimasi dengan tidak adanya js di dalam nya, hanya bermain dengan css dan cdn untuk mendukung peforma stabilitas dan kecepatan website kamu sendiri, dengan kecepatan ini maka akan semakin memudahkan mu untuk melaju ke page one google . Karna sudah bosan dengan tema yang bermain dengan image maka kali ini kami mencoba memberikan sentuhan via text untuk para blogger sejati, dan dengan ini harapan nya adalah kecepatan akan speed situs kamu.",
+    "menu5": "Dan hubungi kami jika membutuhkan layanan pembuatan website menggunakan eleventy dengan modern desain yang akan disesuaikan dengan kebutuhan mu dalam mengembangkan website cepat menggunakan static site generator eleventy ini. termasuk installasi ke hosting agar website cepat modern kamu siap online !!"
+  },
+  "author": {
+    "name": "Your Name Here",
+    "email": "youremailaddress@example.com",
+    "url": "https://example.com/about-me/"
+  },
+  "contact": {
+    "whatsapp": "6285646104747",
+    "email": "axcora@gmail.com",
+    "phone": "62895339403223"
+  }
+}

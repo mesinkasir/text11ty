@@ -1,0 +1,19 @@
+<div reversed class="postlist row" style="counter-reset: start-from {{ (postslistCounter or postslist.length) + 1 }}">
+{% for post in postslist | reverse %}
+<p class="col-md-6 p-1">
+  <a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+<br/>
+
+  <time class="postlist-date tag" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time> .     
+  {% for tag in post.data.tags | filterTagList %}
+{% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+      <a href="{{ tagUrl | url }}" class="post-tag tag border p-1">{{ tag }}</a>
+    {% endfor %}
+    <br/>
+<span class="text-secondary">{{post.data.description}}</span>
+<br/>
+    <a href="{{ post.url | url }}" >More Info →</a>
+    <br/><br/>
+</p>
+{% endfor %}
+</div>

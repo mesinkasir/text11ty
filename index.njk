@@ -1,0 +1,40 @@
+---
+layout: layouts/base.njk
+eleventyNavigation:
+  key: Home
+  order: 1
+---
+<div id="{{ metadata.nav.menu1 }}">
+<p><a href="{{ '/' | url }}">{{ metadata.nav.menu1 }}</a></p>
+<p>{{ metadata.content.menu1 }}</p>
+</div>
+<hr/>
+<div id="{{ metadata.nav.menu2 }}">
+<p><a href="{{ '/' | url }}">{{ metadata.nav.menu2 }}</a></p>
+<p>{{ metadata.content.menu2 }}</p>
+</div>
+<hr/>
+<div id="{{ metadata.nav.menu3 }}">
+<p><a href="{{ '/' | url }}">{{ metadata.nav.menu3 }}</a></p>
+<p>{{ metadata.content.menu3 }}</p>
+</div>
+<hr/>
+<div id="{{ metadata.nav.menu4 }}">
+<a href="{{ '/' | url }}">{{ metadata.nav.menu4 }}</a>
+{% set maxPosts = collections.posts.length | min(4) %}
+{% set postslist = collections.posts | head(-4) %}
+{% set postslistCounter = collections.posts | length %}
+{% include "postslist.njk" %}
+<a href="{{ '/posts' | url }}" class="btn btn-lg btn-dark text-white">Explore all Article</a>
+</div>
+<hr/>
+<div id="{{ metadata.nav.menu5 }}">
+<p><a href="{{ '/' | url }}">{{ metadata.nav.menu5 }}</a></p>
+<p>{{ metadata.content.menu5 }}</p>
+<p>
+  <a href="{{metadata.contact.whatsapp}}" class="btn btn-dark btn-lg text-white">Whatsapp</a> <a href="tel:{{metadata.contact.phone}}" class="btn btn-dark btn-lg text-white">Phone</a> <a href="mailto:{{metadata.contact.email}}" class="btn btn-dark btn-lg text-white">Email</a> <a href="https://app.midtrans.com/payment-links/1647457988722" class="btn btn-dark btn-lg text-white">Donasi</a>
+</p>
+</div>
+
+</div>
+
