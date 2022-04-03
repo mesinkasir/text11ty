@@ -5,3 +5,5 @@
 Eleventy Text11ty template themes for writer with Auto SEO
 
 Documentation : [https://www.hockeycomputindo.com/2022/03/eleventy-bootstrap-web-template-seo.html](https://www.hockeycomputindo.com/2022/03/eleventy-bootstrap-web-template-seo.html)
+
+Test drive Demo : [https://text11ty.pages.dev/](https://text11ty.pages.dev/)
