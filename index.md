@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# text11ty
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/text11ty/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![eleventy template themes text11ty](text11ty.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Eleventy Text11ty template themes for writer with Auto SEO
 
-### Markdown
+Documentation : [https://www.hockeycomputindo.com/2022/03/eleventy-bootstrap-web-template-seo.html](https://www.hockeycomputindo.com/2022/03/eleventy-bootstrap-web-template-seo.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Test drive Demo : [https://text11ty.pages.dev/](https://text11ty.pages.dev/)
 
-```markdown
-Syntax highlighted code block
+--------------------------------------------------------------------------------------------------------------------
 
-# Header 1
-## Header 2
-### Header 3
+### Buy me a coffee ☕️ ❤️  ✌🏻 
 
-- Bulleted
-- List
+with moneygram or western union
 
-1. Numbered
-2. List
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/text11ty/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+--------------------------------------------------------------------------------------------------------------------
