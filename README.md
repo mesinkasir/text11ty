@@ -8,6 +8,8 @@ Documentation : [https://www.hockeycomputindo.com/2022/04/membuat-website-dengan
 
 Test drive Demo : [https://text11ty.pages.dev/](https://text11ty.pages.dev/)
 
+Just a simple text to focus on creating blog article content or you can create a documentation page with this themes.
+
 --------------------------------------------------------------------------------------------------------------------
 
 ### Buy me a coffee ☕️ ❤️  ✌🏻 
