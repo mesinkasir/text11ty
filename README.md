@@ -8,7 +8,11 @@ Documentation ⌨️ : [https://www.hockeycomputindo.com/2022/04/membuat-website
 
 Test drive Demo 🖥 : [https://text11ty.pages.dev/](https://text11ty.pages.dev/)
 
+Demo with image 📷 : [visit demo → ](https://eleventy.web.app/)
+
 Video 📽 : [https://www.youtube.com/watch?v=utuYZfoAFek](https://www.youtube.com/watch?v=utuYZfoAFek)
+
+
 
 Just a simple text to focus on creating blog article content or you can create a documentation page with this themes.
 
