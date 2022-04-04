@@ -19,7 +19,7 @@
     "email": "axcora@gmail.com",
     "url": "https:/axcora.com/"
   },
-  "homepage": "https://github.com/11ty/eleventy-base-blog#readme",
+  "homepage": "https://text11ty.pages.dev/",
   "dependencies": {
     "@11ty/eleventy": "^1.0.0",
     "@11ty/eleventy-navigation": "^0.3.2",
