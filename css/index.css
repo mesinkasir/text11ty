@@ -1,0 +1,12 @@
+html,body {font size:20px;}
+a {
+  text-decoration: none;
+  color: black;
+}
+.black,
+ {
+  background-color: black;
+}
+.post-tag {
+font-size:11px;
+}
